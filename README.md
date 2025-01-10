@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kanji257
 - 👀 I’m interested in Maths, Physics, Coding
 - 🌱 I’m currently learning Function Arguments with the 'Learn Intermediate Python 3' Course by Codecademy
-- 💞️ I’m looking to collaborate on some projets in the near future :)
+- 💞️ I’m looking to collaborate on some projects in the near future :)
 - 📫 How to reach me: karanprabuvel07@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can play the guitar
